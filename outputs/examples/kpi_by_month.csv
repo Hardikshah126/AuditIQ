@@ -1,0 +1,5 @@
+total_lines,matched_lines,exception_lines,match_rate_pct,exception_rate_pct,total_absolute_exposure,unresolved_exposure,average_confidence,review_required_count,review_rate_pct,month_key
+578,276,282,47.75,48.79,238671.31,38667.07,89.21,283,48.96,2026-01
+622,318,282,51.13,45.34,306567.55,79145.85,89.30,285,45.82,2026-02
+594,288,285,48.48,47.98,128990.32,68111.45,90.33,288,48.48,2026-03
+630,288,325,45.71,51.59,144383.68,70420.36,88.01,326,51.75,2026-04
